@@ -1,6 +1,6 @@
-# flutter_application_1
+# sangtu_flutter_tugas2
 
-A new Flutter project.
+Sebelum di run, harap jalankan 'flutter pub get' agar tidak ada error dalam kode program. Karena tidak bisa upload hidden files ke dalam github.
 
 ## Getting Started
 
